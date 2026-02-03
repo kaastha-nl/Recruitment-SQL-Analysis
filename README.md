@@ -22,5 +22,5 @@ company assignments, and final hiring decisions.
 - SQL (MySQL-compatible syntax)
 
 ## Repository Structure
-- `sql/` – SQL queries for analysis
-- `data/` – recruitment dataset (CSV)
+- .sql – SQL queries for analysis
+- .csv – recruitment dataset (CSV)
