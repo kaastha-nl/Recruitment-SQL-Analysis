@@ -19,7 +19,7 @@ company assignments, and final hiring decisions.
 - Gender-based hiring rate comparison
 
 ## Tools Used
-- SQL (MySQL-compatible syntax)
+- MySQL
 
 ## Repository Structure
 - .sql – SQL queries for analysis
